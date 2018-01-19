@@ -1,0 +1,19 @@
+{
+  "name": "appium-helper",
+  "version": "1.0.0",
+  "description": "Хелпер по встановленню та налаштуванню [appium](https://github.com/appium/appium)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potapovDim/appium-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/potapovDim/appium-helper/issues"
+  },
+  "homepage": "https://github.com/potapovDim/appium-helper#readme"
+}
